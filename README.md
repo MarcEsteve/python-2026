@@ -1,2 +1,2 @@
-# python-2026
+# Python 2026
 Repositorio para formaciones con Python de cualquier índole

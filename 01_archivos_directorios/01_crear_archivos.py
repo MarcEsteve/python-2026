@@ -1,6 +1,6 @@
 import os
 import subprocess
-subprocess.run("cls", shell=True, check=False) # Windows cls, Mac/Linux clear
+subprocess.run("cls", shell=True, check=False) # Windows cls, Mac/Linux "clear"
 
 
 # Definir la carpeta donde se guardarán los archivos

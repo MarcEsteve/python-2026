@@ -1,9 +1,9 @@
 import win32com.client #Sirve para interactuar con aplicaciones de Windows
 import imapclient #Sirve para interactuar con servidores de correo
 # import pyzmail #Sirve para interactuar con correos electrónicos
-import os #Sirve para limpiar la pantalla
+import subprocess #Sirve para ejecutar comandos del sistema de forma recomendada
 # Limpiar la pantalla
-os.system("cls")
+subprocess.run(["cmd", "/c", "cls"], check=False)
 # Como detectar que funciona correctamente
 try:
     # Aqui se intenta conectar a la aplicación de Outlook

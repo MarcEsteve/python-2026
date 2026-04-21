@@ -6,6 +6,9 @@ subprocess.run("cls", shell=True, check=False) # Windows cls, Mac/Linux "clear"
 # Definir la carpeta donde se guardarán los archivos
 carpeta = "archivos"
 
+#Ejemplo para mostrar el commit push de GitHub
+
+
 # Crear la carpeta si no existe
 if not os.path.exists(carpeta):
     os.makedirs(carpeta)

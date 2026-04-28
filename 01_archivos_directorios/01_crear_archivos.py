@@ -1,10 +1,14 @@
-import os
+import os 
+# Para instalar os en consola 
+# pip install os
+
 import subprocess
 subprocess.run("cls", shell=True, check=False) # Windows cls, Mac/Linux "clear"
 
 
 # Definir la carpeta donde se guardarán los archivos
 carpeta = "archivos"
+
 
 #Ejemplo para mostrar el commit push de GitHub
 

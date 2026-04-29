@@ -1,0 +1,83 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1898 >>
+stream
+BT /F2 20 Tf 50 790 Td (FACTURA DE EJEMPLO) Tj ET
+BT /F2 10 Tf 50 750 Td (Factura:) Tj ET
+BT /F1 10 Tf 120 750 Td (F-2026-001) Tj ET
+BT /F2 10 Tf 50 730 Td (Fecha:) Tj ET
+BT /F1 10 Tf 120 730 Td (29/04/2026) Tj ET
+BT /F2 10 Tf 50 710 Td (Cliente:) Tj ET
+BT /F1 10 Tf 120 710 Td (Empresa ABC, S.L.) Tj ET
+BT /F2 10 Tf 50 690 Td (NIF:) Tj ET
+BT /F1 10 Tf 120 690 Td (B12345678) Tj ET
+0.7 w 50 640 m 50 500 l S
+0.7 w 280 640 m 280 500 l S
+0.7 w 360 640 m 360 500 l S
+0.7 w 480 640 m 480 500 l S
+0.7 w 570 640 m 570 500 l S
+0.7 w 50 640 m 570 640 l S
+0.7 w 50 612 m 570 612 l S
+0.7 w 50 584 m 570 584 l S
+0.7 w 50 556 m 570 556 l S
+0.7 w 50 528 m 570 528 l S
+0.7 w 50 500 m 570 500 l S
+BT /F2 9 Tf 56 622 Td (Producto) Tj ET
+BT /F2 9 Tf 286 622 Td (Unidades) Tj ET
+BT /F2 9 Tf 366 622 Td (Precio unitario) Tj ET
+BT /F2 9 Tf 486 622 Td (Total) Tj ET
+BT /F1 9 Tf 56 594 Td (Camiseta corporativa) Tj ET
+BT /F1 9 Tf 286 594 Td (10) Tj ET
+BT /F1 9 Tf 366 594 Td (12.50 EUR) Tj ET
+BT /F1 9 Tf 486 594 Td (125.00 EUR) Tj ET
+BT /F1 9 Tf 56 566 Td (Pantalon deportivo) Tj ET
+BT /F1 9 Tf 286 566 Td (5) Tj ET
+BT /F1 9 Tf 366 566 Td (29.90 EUR) Tj ET
+BT /F1 9 Tf 486 566 Td (149.50 EUR) Tj ET
+BT /F1 9 Tf 56 538 Td (Zapatillas running) Tj ET
+BT /F1 9 Tf 286 538 Td (2) Tj ET
+BT /F1 9 Tf 366 538 Td (59.95 EUR) Tj ET
+BT /F1 9 Tf 486 538 Td (119.90 EUR) Tj ET
+BT /F1 9 Tf 56 510 Td (Mochila tecnica) Tj ET
+BT /F1 9 Tf 286 510 Td (3) Tj ET
+BT /F1 9 Tf 366 510 Td (24.50 EUR) Tj ET
+BT /F1 9 Tf 486 510 Td (73.50 EUR) Tj ET
+BT /F1 10 Tf 350 460 Td (Subtotal) Tj ET
+BT /F1 10 Tf 470 460 Td (467.90 EUR) Tj ET
+BT /F1 10 Tf 350 438 Td (IVA 21%) Tj ET
+BT /F1 10 Tf 470 438 Td (98.26 EUR) Tj ET
+0.7 w 350 428 m 560 428 l S
+BT /F2 11 Tf 350 408 Td (TOTAL) Tj ET
+BT /F2 11 Tf 470 408 Td (566.16 EUR) Tj ET
+BT /F1 9 Tf 50 360 Td (Nota: este PDF se ha generado para practicar extraccion de texto y tablas con pdfplumber.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+2352
+%%EOF
